@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\PRAVEEN PATIL\Desktop\PROJECTS\MLOPS\PMMLO\mlruns/199657038609007189/4bb0dd379427434eb0b5db4188c74986/artifacts
+end_time: 1749027518632
+entry_point_name: ''
+experiment_id: '199657038609007189'
+lifecycle_stage: active
+run_id: 4bb0dd379427434eb0b5db4188c74986
+run_name: bedecked-fox-10
+run_uuid: 4bb0dd379427434eb0b5db4188c74986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749027511228
+status: 3
+tags: []
+user_id: PRAVEEN PATIL

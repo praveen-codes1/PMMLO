@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749032641508
+current_stage: Production
+description: null
+last_updated_timestamp: 1749032641527
+name: predictive_maintenance
+run_id: 4bb0dd379427434eb0b5db4188c74986
+run_link: null
+source: file://C:\Users\PRAVEEN PATIL\Desktop\PROJECTS\MLOPS\PMMLO\mlruns/199657038609007189/4bb0dd379427434eb0b5db4188c74986/artifacts/model
+status: READY
+status_message: null
+storage_location: file://C:\Users\PRAVEEN PATIL\Desktop\PROJECTS\MLOPS\PMMLO\mlruns/199657038609007189/4bb0dd379427434eb0b5db4188c74986/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\PRAVEEN PATIL\Desktop\PROJECTS\MLOPS\PMMLO\mlruns/199657038609007189/52d6f2ea55cb490fb542cbcee3c0205c/artifacts
+end_time: 1749185545305
+entry_point_name: ''
+experiment_id: '199657038609007189'
+lifecycle_stage: active
+run_id: 52d6f2ea55cb490fb542cbcee3c0205c
+run_name: rare-duck-424
+run_uuid: 52d6f2ea55cb490fb542cbcee3c0205c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749185524689
+status: 3
+tags: []
+user_id: PRAVEEN PATIL
